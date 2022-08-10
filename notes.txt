@@ -1,0 +1,7 @@
+npm install react-bootstrap  
+npm init @eslint/config      
+npx create-react-app react-app-eslint
+Install Eslint by microsoft.
+Create jsconfig.json to help with auto imports. 
+https://www.youtube.com/watch?v=Ul3y1LXxzdU -React Router
+https://stackoverflow.com/questions/60637561/auto-import-of-react-components-in-visual-studio-code
